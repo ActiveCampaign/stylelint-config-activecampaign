@@ -1,7 +1,6 @@
 module.exports = {
-  plugins: [
-    'stylelint-scss',
-  ],
+  syntax: 'scss',
+  plugins: ['stylelint-scss'],
   rules: {
     'at-rule-empty-line-before': [
       'always',
@@ -17,7 +16,8 @@ module.exports = {
     ],
     'at-rule-name-case': 'lower',
     'at-rule-name-space-after': 'always',
-    'at-rule-no-unknown': true,
+    "at-rule-no-unknown": null,
+    "scss/at-rule-no-unknown": true,
     'at-rule-no-vendor-prefix': true,
     'at-rule-semicolon-newline-after': 'always',
     'at-rule-semicolon-space-before': 'never',
