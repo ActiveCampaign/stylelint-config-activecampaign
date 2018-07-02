@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rod/stylelint-config-activecampaign/issues"
   },
-  "homepage": "https://github.com/rod/stylelint-config-activecampaign#readme"
+  "homepage": "https://github.com/rod/stylelint-config-activecampaign#readme",
+  "dependencies": {
+    "stylelint-scss": "^3.1.3"
+  }
 }

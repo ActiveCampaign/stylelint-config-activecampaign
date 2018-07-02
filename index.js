@@ -1,4 +1,7 @@
 module.exports = {
+  plugins: [
+    'stylelint-scss',
+  ],
   rules: {
     'at-rule-empty-line-before': [
       'always',
