@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-activecampaign",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Stylelint configuration used by ActiveCampaign",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rod/stylelint-config-activecampaign.git"
+    "url": "git+https://github.com/activecampaign/stylelint-config-activecampaign.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rod/stylelint-config-activecampaign/issues"
+    "url": "https://github.com/activecampaign/stylelint-config-activecampaign/issues"
   },
-  "homepage": "https://github.com/rod/stylelint-config-activecampaign#readme",
+  "homepage": "https://github.com/activecampaign/stylelint-config-activecampaign#readme",
   "dependencies": {
     "stylelint-scss": "^3.1.3"
   }
