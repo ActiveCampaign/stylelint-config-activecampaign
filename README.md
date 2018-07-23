@@ -2,7 +2,7 @@
 
 > Stylelint configuration used by ActiveCampaign
 
-![David](https://img.shields.io/david/dev/activecampaign/stylelint-config-activecampaign.svg)
+![David](https://img.shields.io/david/activecampaign/stylelint-config-activecampaign.svg)
 
 ## Installation
 
