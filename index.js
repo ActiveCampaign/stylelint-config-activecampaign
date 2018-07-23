@@ -31,7 +31,12 @@ module.exports = {
     'block-opening-brace-space-before': 'always-single-line',
     'color-hex-case': 'lower',
     'color-hex-length': 'short',
-    'color-named': 'never',
+    'color-named': [
+      'never',
+      {
+        ignore: ["inside-function"]
+      }
+    ],
     'color-no-invalid-hex': true,
     'comment-empty-line-before': 'always',
     'comment-no-empty': true,
